@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Human Experiment 2",
+"productName": "My project (2)",
 "productVersion": "0.1",
 "dataUrl": "build 1.data.unityweb",
 "wasmCodeUrl": "build 1.wasm.code.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.25f1"
+"unityVersion": "2019.4.40f1"
 }
